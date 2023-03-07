@@ -1,1 +1,1 @@
-# Course Projects for Quantitative Asset Management class
+Course Projects for Quantitative Asset Management class
